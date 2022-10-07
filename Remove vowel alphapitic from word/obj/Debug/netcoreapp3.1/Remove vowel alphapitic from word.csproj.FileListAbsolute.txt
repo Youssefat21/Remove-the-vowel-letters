@@ -1,0 +1,14 @@
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\bin\Debug\netcoreapp3.1\Remove vowel alphapitic from word.exe
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\bin\Debug\netcoreapp3.1\Remove vowel alphapitic from word.deps.json
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\bin\Debug\netcoreapp3.1\Remove vowel alphapitic from word.runtimeconfig.json
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\bin\Debug\netcoreapp3.1\Remove vowel alphapitic from word.runtimeconfig.dev.json
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\bin\Debug\netcoreapp3.1\Remove vowel alphapitic from word.dll
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\bin\Debug\netcoreapp3.1\Remove vowel alphapitic from word.pdb
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.AssemblyInfoInputs.cache
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.AssemblyInfo.cs
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.csproj.CoreCompileInputs.cache
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.dll
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.pdb
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.genruntimeconfig.cache
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.csproj.AssemblyReference.cache
+D:\C#\Remove vowel alphapitic from word\Remove vowel alphapitic from word\obj\Debug\netcoreapp3.1\Remove vowel alphapitic from word.GeneratedMSBuildEditorConfig.editorconfig
